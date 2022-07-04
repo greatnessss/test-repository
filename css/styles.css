@@ -127,3 +127,17 @@ nav{
     height: 40px;
     line-height: 40px;
   }
+#btn1{
+  color: white;
+  background-color: orange;
+  padding: 10px;
+  border-style: none;
+  cursor: pointer;
+}
+#btn2{
+  color: black;
+  background-color: white;
+  padding: 10px;
+  border-style: none;
+  cursor: pointer;
+}
